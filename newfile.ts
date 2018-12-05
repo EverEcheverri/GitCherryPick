@@ -12,5 +12,5 @@ function secondCommit(){
 }
 
 function thirdCommit(){
-    console.log("another message");
+    console.log("another message for update");
 }

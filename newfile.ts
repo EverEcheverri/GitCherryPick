@@ -3,5 +3,9 @@ function firtsCommit(){
 }
 
 function secondCommit(){
-    console.log("second commit");
+    console.log("second commit updated");
+}
+
+function thirdCommit(){
+    console.log("third commit");
 }

@@ -7,5 +7,5 @@ function secondCommit(){
 }
 
 function thirdCommit(){
-    console.log("third commit");
+    console.log("another message");
 }

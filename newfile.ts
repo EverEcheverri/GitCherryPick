@@ -1,5 +1,5 @@
 function firtsCommit(){
-    console.log("firt action changed");
+    console.log("new actions");
 }
 
 function otherCommit(){
